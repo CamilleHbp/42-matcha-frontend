@@ -1,0 +1,16 @@
+.single-input {
+  display: flex;
+  flex-direction: row;
+  width: 25%;
+  flex: 1 1 0px;
+}
+
+.single-input-label {
+  flex: 1;
+  align-self: flex-start;
+}
+
+.single-input-input {
+  flex: 1;
+  align-self: flex-end;
+}
